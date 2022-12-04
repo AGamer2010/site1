@@ -1,0 +1,28 @@
+body{
+    background-color: antiquewhite;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 20px;
+}
+
+.container{
+    margin-left: 4px;
+}
+
+.home{
+    white-space: nowrap;
+    float: left;
+    color: black;
+    text-decoration: none;  
+}
+
+h1{
+    font-size: 3rem;
+}
+
+.imgLogo{
+    width: 6rem;
+    height: 6rem;
+    display: inline-block;
+    
+}
+
